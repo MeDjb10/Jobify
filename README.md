@@ -149,12 +149,6 @@ We follow the **GitFlow** workflow for new features and bug fixes.
 
 ---
 
-## **📜 License**
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## **🔒 Security**
 
 Jobify integrates **JWT Authentication** for secure user login, ensuring that both recruiters and candidates can access only their designated features.
