@@ -23,6 +23,19 @@ Welcome to **Jobify**, a platform designed to streamline the recruitment process
 
 ---
 
+## **🔗 AI Integration**
+
+Jobify integrates with the **AI-Resume Analyzer**, an open-source project by [Deepak Padhi](https://github.com/deepakpadhi986/AI-Resume-Analyzer). This tool parses information from resumes using natural language processing (NLP) to:
+- Extract keywords.
+- Cluster skills into sectors based on keywords.
+- Provide recommendations, predictions, and analytics to the applicant.
+
+The **AI-Resume Analyzer** enhances the resume analysis and matching process in Jobify, making the system more efficient and accurate.
+
+> **AI-Resume Analyzer Repository**: [https://github.com/deepakpadhi986/AI-Resume-Analyzer](https://github.com/deepakpadhi986/AI-Resume-Analyzer)
+
+---
+
 ## **🧑‍💻 Tech Stack**
 
 Jobify uses modern technologies to ensure a seamless and scalable user experience:
@@ -32,6 +45,7 @@ Jobify uses modern technologies to ensure a seamless and scalable user experienc
 - **Database**: MySQL
 - **Authentication**: JSON Web Tokens (JWT)
 - **Deployment**: Nginx, Gunicorn, SSL for secure connections
+- **AI Resume Parsing**: NLP-based **AI-Resume Analyzer**
 
 ---
 
