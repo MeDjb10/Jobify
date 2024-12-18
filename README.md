@@ -56,7 +56,7 @@ Follow these simple steps to set up **Jobify** locally:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/taysir17/Jobify.git
+git clone https://github.com/MeDjb10/Jobify
 cd jobify
 ```
 
