@@ -1,3 +1,7 @@
+Here's the updated **Jobify** README file with the new section about Agile methodologies and Scrum framework:
+
+---
+
 ### **Jobify - Recruitment Platform README**
 
 ---
@@ -46,6 +50,31 @@ Jobify uses modern technologies to ensure a seamless and scalable user experienc
 - **Authentication**: JSON Web Tokens (JWT)
 - **Deployment**: Nginx, Gunicorn, SSL for secure connections
 - **AI Resume Parsing**: NLP-based **AI-Resume Analyzer**
+
+---
+
+## **💼 Agile Methodologies and Scrum Framework**
+
+Jobify was developed following **Agile methodologies** with the **Scrum framework**. This approach ensured iterative development, collaboration, and adaptability throughout the project.
+
+### **How We Worked with Scrum**
+- **Sprints**: The development process was divided into three sprints, each lasting two weeks. Each sprint focused on delivering specific user stories and functionalities:
+  - **Sprint 1**: Initial setup, authentication, and job posting features.
+  - **Sprint 2**: Candidate resume submission, job matching, and recruiter notifications.
+  - **Sprint 3**: Enhancements, bug fixes, and deployment readiness.
+  
+- **Sprint Backlog**: Tasks were broken down into smaller subtasks and assigned to team members during sprint planning.
+
+- **Daily Standups**: Brief meetings were held daily to discuss progress, challenges, and next steps.
+
+- **Sprint Review**: At the end of each sprint, we demonstrated completed features and gathered feedback.
+
+- **Retrospectives**: We reflected on successes and areas for improvement after every sprint, enabling continuous process refinement.
+
+### **Agile Benefits in Jobify**
+- **Transparency**: Regular communication and sprint reviews kept the team aligned with the project's goals.
+- **Flexibility**: Agile allowed us to adapt to changes in requirements and priorities.
+- **Incremental Delivery**: Working in sprints ensured a steady progression of features, with usable functionality at the end of each iteration.
 
 ---
 
