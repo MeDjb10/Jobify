@@ -1,8 +1,4 @@
-Here's the updated **Jobify** README file with the new section about Agile methodologies and Scrum framework:
-
----
-
-### **Jobify - Recruitment Platform README**
+### **Jobify - Recruitment Platform**
 
 ---
 
